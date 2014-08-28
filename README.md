@@ -7,7 +7,9 @@ This is the Apprenda maven repository for binary artifacts.
 
 # Usage
 
-* Adding the Apprenda repository to access Maven dependencies
+* Adding the Apprenda repository to access Maven dependencies. 
+
+NOTE : the Guest App API should not be deployed with the application and thus needs to be declared in 'provided' scope in Maven projects. 
 
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -19,6 +21,7 @@ This is the Apprenda maven repository for binary artifacts.
             <groupId>com.apprenda.framework</groupId>
             <artifactId>guestapp-api</artifactId>
             <version>5.0.2-Release</version>
+            <scope>provided</provided>
         </dependency>
     </dependencies>
 
