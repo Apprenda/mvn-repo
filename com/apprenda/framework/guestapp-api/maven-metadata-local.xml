@@ -3,7 +3,7 @@
   <groupId>com.apprenda.framework</groupId>
   <artifactId>guestapp-api</artifactId>
   <versioning>
-    <release>6.0.3-Release</release>
+    <release>6.5.0-Release</release>
     <versions>
       <version>5.0.2-Release</version>
       <version>5.0.3-Release</version>
@@ -21,7 +21,8 @@
       <version>5.5.7-Release</version>
       <version>6.0.2-Release</version>
       <version>6.0.3-Release</version>
+      <version>6.5.0-Release</version>
     </versions>
-    <lastUpdated>20150807185217</lastUpdated>
+    <lastUpdated>20160202142822</lastUpdated>
   </versioning>
 </metadata>
