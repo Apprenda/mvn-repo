@@ -3,11 +3,12 @@
   <groupId>com.apprenda.framework</groupId>
   <artifactId>guestapp-logging</artifactId>
   <versioning>
-    <release>6.5.2-Release</release>
+    <release>6.5.3-Release</release>
     <versions>
       <version>6.5.1-Release</version>
       <version>6.5.2-Release</version>
+      <version>6.5.3-Release</version>
     </versions>
-    <lastUpdated>20160627161246</lastUpdated>
+    <lastUpdated>20161027222456</lastUpdated>
   </versioning>
 </metadata>
